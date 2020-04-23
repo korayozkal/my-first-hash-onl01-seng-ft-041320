@@ -3,9 +3,7 @@ my_hash = {
 	"first name" => "Matt",
 	"last name" => "Main"
 }
-
-
-end	end
+end
 
 
 
