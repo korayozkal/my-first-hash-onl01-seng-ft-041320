@@ -1,6 +1,6 @@
 def my_hash
 my_hash = {
-	"Miami Heat" => "Wade", "Dragic","Bosh" "Butler"
+	"Miami Heat" => "Wade", "Dragic","Bosh", "Butler"
 	"MVP" => "James"
 }
 end
