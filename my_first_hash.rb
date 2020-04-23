@@ -1,8 +1,11 @@
 def my_hash
-my_hash = { "miami heat"=> "wade", 
-"bosh", "dragic", "butler", "igoudala", 
-"mvp" => "lebron james"}
-end
+my_hash = {
+	"first name" => "Matt",
+	"last name" => "Main"
+}
+
+
+end	end
 
 
 
