@@ -1,7 +1,6 @@
-def my_hash
-  # use the literal constructor to set the variable, my_hash, equal to a hash with key/value pairs of your choice.
-
-  
+def my_hash(myhash)
+myhash = [your_hash = { miami heat : "wade", "bosh", "dragic", "butler", "igoudala"}]
+end
 end
 
 
