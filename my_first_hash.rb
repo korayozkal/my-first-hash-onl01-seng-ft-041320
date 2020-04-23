@@ -1,4 +1,5 @@
-def my_hash(myhash)
+def my_hash
+  
 myhash = [your_hash = { miami heat : "wade", "bosh", "dragic", "butler", "igoudala"}]
 end
 end
